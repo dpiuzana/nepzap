@@ -56,17 +56,18 @@ Este estudo foi realizado a partir de pesquisas bibliográficas, visita de campo
 - Software Google Earth Engine;
 - Imagens Sentinel-2 e SRTM Global DEM;
 - Shapefile de drenagem da bacia do Rio São Francisco com escala de 1:100.000, obtido através da IDE-Sisema (Infraestrutura de Dados Espaciais do Sistema Estadual de Meio Ambiente e Recursos Hídricos);
-- Shapefile de ottobacias da bacia do Rio São Francisco, obtido através da IDE-Sisema;
-- Shapefile dos municípios do Estado de Minas Gerais, obtido através da IDE-Sisema;
-- Shapefile de Declaração de Áreas de Conflito (DAC) obtido através da IDE-Sisema;
-- Shapefile de Unidades de Conservação obtido através da IDE-Sisema; 
+- Shapefile de ortobacias da bacia do Rio São Francisco, obtido a partir da IDE-Sisema;
+- Shapefile dos municípios do Estado de Minas Gerais, obtido a partir da IDE-Sisema;
+- Shapefile de Declaração de Áreas de Conflito (DAC) obtido a partir da IDE-Sisema;
+- Shapefile de Unidades de Conservação obtido a partir da IDE-Sisema; 
 - Mapa geológico do Estado de Minas Gerais na escala de 1:100.000 da CODEMIG versão 2014;
 - Mapa de classes de solos do Estado de Minas Gerais na escala de 1:500.000 da UFV versão 2010;
+- Mapa de classes de solos da EMBRAPA na escala de 1:???.000.000 versão?????  
 - Relatório dos usuários de água e de Hidrografia da bacia do Ribeirão Santana obtido junto a SEMAD.
 
 ### Unidades de paisagem
 
-As unidades de paisagem são inicialmente traçadas a partir dos mapas de solo, litologia, modelo digital de elevação e declividade. Em seguida, as unidades são validadas por meio de visitam em campo. A unidade de paisagem leva em consideração a especificidade local e seus componentes físicos (geologia, relevo e solos), bióticos (vegetação nativa) e socioeconômicos (atividades antrópicas). As unidades de paisagem foram identificadas preliminarmente cruzando as curvas de nível derivadas do modelo digital de elevação do SRTM e as imagens do Google Earth Pro. A interpretação da paisagem foi feita a partir da visualização 3D, com exagero vertical de 1,5. A caracterização de cada Unidade de Paisagem leva em consideração a morfologia, o embasamento geológico/pedológico, cobertura vegetal nativa original, uso atual e situação ambiental. Em seguida, por meio de visita a campo, a interpretação preliminar é refinada. A análise foi finalizada com a identificação, para cada unidade de paisagem, das potencialidades, limitações, fragilidades e aptidões para fins múltiplos.
+As unidades de paisagem foram inicialmente delimitadas a partir dos mapas de solo, geologia, modelo digital de elevação e declividade. Foi realizado para a área o cruzamento de camadas de curvas de nível derivadas do modelo digital de elevação do SRTM e as imagens do Google Earth Pro.  A interpretação da paisagem foi feita a partir da visualização 3D, com exagero vertical de 1,5. A análise de elementos como a morfologia, embasamento geológico/pedológico, cobertura vegetal nativa original, uso atual e situação ambiental auxiliou, preliminarmente, na definição das unidades de paisagem. Em seguida, por meio de visita a campo, a interpretação preliminar foi refinada e validada. A análise foi finalizada com a identificação, para cada unidade de paisagem, das potencialidades, limitações, fragilidades e aptidões para fins múltiplos. 
 
 ![](img/figura11.png)
 

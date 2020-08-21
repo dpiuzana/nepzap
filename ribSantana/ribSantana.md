@@ -21,11 +21,12 @@
 
 ## Introdução
 
-A crescente demanda pelos recursos hídricos faz com que a gestão destes seja cada vez mais aprimorada nas regiões onde a água se encontra em estado de conflito de uso ou escassa. Novas metodologias de caracterização e interpretação de dados são elaboradas para auxiliar na resolução destes conflitos. O Zoneamento Ambiental Produtivo é uma dessas metodologias, aprovada pelo Estado de Minas Gerais em 2014, como metodologia oficial, que tem como objetivo aprimorar a gestão socioambiental e econômica de bacias hidrográficas no Estado de Minas Gerais através da concepção de três produtos básicos que podem ser cruzados para obtenção de informações mais detalhadas. 
+A crescente demanda pelos recursos hídricos faz com que a gestão destes seja cada vez mais aprimorada nas regiões onde a água se encontra em estado de conflito de uso ou escassa. Novas metodologias de caracterização e interpretação de dados são elaboradas para auxiliar na resolução destes conflitos. O Zoneamento Ambiental Produtivo (ZAP) é uma dessas metodologias, aprovada oficialmente pelo Estado de Minas Gerais em 2014, e que tem como objetivo aprimorar a gestão socioambiental e econômica de bacias hidrográficas no estado de Minas Gerais. Para isso,  utiliza-se da  concepção de três produtos básicos que podem ser cruzados para obtenção de informações sobre possíveis conflitos existentes em uma bacia. 
 
-A bacia do Ribeirão Santana, contemplada neste ZAP, está localizada na região do Alto Jequitinhonha, no município de Felício dos Santos e pertence à Unidade de Planejamento e Gestão de Recursos Hídricos do Rio Araçuaí (UPGRH JQ2). Não há registro de conflitos pelo uso da água na sub bacia do Ribeirão Santana, e a demanda está concentrada na parte baixa da bacia. No entanto, este estudo é peça fundamental no planejamento e gestão do espaço para evitar e mitigar potenciais conflitos. Além da gestão do uso dos recursos hídricos, o ZAP subsidia o planejamento territorial visando a conservação e potencializando a utilização ótima de cada unidade de trabalho. Este relatório apresenta um diagnóstico completo da bacia, incluindo caracterização da paisagem, limitações, potencialidades de uso e conflito. Sendo, portanto, o ponto de partida para a implantação de futuros projetos e desenvolvimento de políticas públicas. A ausência de estudos socioambientais, na área onde se encontra a bacia do Ribeirão Santana, faz com que a aplicação da metodologia ZAP, se torne ainda mais relevante. 
+Os três produtos principais compõem o estudo são: (1) caracterização das unidades de paisagem, (2) diagnóstico da disponibilidade hídrica da bacia com base nas outorgas existentes e (3) levantamento do uso e ocupação do solo. Por meio do cruzamento desses produtos é  possível elaborar um diagnóstico completo sobre o uso dos recursos hídricos e sobre uso e ocupação do solo frente as unidades de paisagem que compõem a bacia.
 
-Três produtos principais compõem este estudo: (1) caracterização das unidades de paisagem, (2) diagnóstico da disponibilidade hídrica da bacia com base nas outorgas existentes e (3) levantamento do uso e ocupação do solo. Através do cruzamento desses produtos foi possível elaborar um diagnóstico completo sobre o uso dos recursos hídricos e sobre uso e ocupação do solo frente as unidades de paisagem que compõem a bacia.
+Este ZAP foi realizado na bacia do Ribeirão Santana, localizada na região do Alto Jequitinhonha, no município de Felício dos Santos e pertence à Unidade de Planejamento e Gestão de Recursos Hídricos do Rio Araçuaí (UPGRH JQ2). Não há registro de conflitos pelo uso da água na bacia do Ribeirão Santana, e a demanda está concentrada na sua parte baixa. No entanto, este estudo é fundamental para o planejamento e gestão do espaço para evitar e mitigar potenciais conflitos. Além da gestão do uso dos recursos hídricos, o ZAP subsidia o planejamento territorial visando a conservação e potencializando os diversos usos na bacia. Este relatório apresenta um diagnóstico completo da bacia, incluindo caracterização da paisagem, limitações, potencialidades de uso e conflito. Sendo, portanto, o ponto de partida para a implantação de futuros projetos e desenvolvimento de políticas públicas. A ausência de estudos socioambientais na área onde se encontra a bacia do Ribeirão Santana, faz com que a aplicação da metodologia ZAP, se torne ainda mais relevante. 
+
 
 ![](img/fig1_limites.png)
 
@@ -542,7 +543,7 @@ As áreas de preservação permanente, regulamentadas por lei (MINAS GERAIS, 201
 
 ## Considerações gerais
 
-Nesta seção serão apresentandos os conflitos referentes ao uso do solo com as áreas de preservação permanente e aptisão das unidades de paisagem. São apresentados também os índices que representam a atual condição da bacia, que são: índice de conservação da bacia, de antropisação das APPs hídricas, de concentração de nascentes e de uso conflitante na bacia.
+Nesta seção serão apresentandos os conflitos referentes ao uso do solo com as áreas de preservação permanente e aptidão das unidades de paisagem. São apresentados também os índices que representam a atual condição da bacia, que são: índice de conservação da bacia, de antropisação das APPs hídricas, de concentração de nascentes e de uso conflitante na bacia.
 
 ### Áreas conservadas e antropisadas
 
@@ -559,7 +560,7 @@ A bacia apresenta um grau de antropização diferente conforme região analizada
 | Área total   | 7284,118  |                        |
 
 
-### Conflito com areas de preservação permanente
+### Conflito com Áreas de preservação permanente
 
 A informação de APPs hídricas conservadas e antropizadas pode ser utilizada para indicar áreas prioritárias para recuperação. Espacialmente, as APPs hídricas conservadas são representadas pela interseção entre as classes de uso e ocupação do solo vegetação nativa e afloramento rochoso. Já as APPs antropizadas são interseccionadas com as classes de uso e ocupação do solo benfeitorias, pastagem, agricultura, silvicultura, área urbana e solo exposto. o índice de antropização das APPs hídricas foi de 20%.
 
@@ -568,8 +569,8 @@ A informação de APPs hídricas conservadas e antropizadas pode ser utilizada p
 | Tipos de área | Área (ha) | Representatividade (%) |
 |---------------|-----------|------------------------|
 | Conservada    | 776,880   | 80                   |
-| Antropizadas  | 192,350   | 20                   |
-| Represas      | 2,262     |                    |
+| Antropizada   | 192,350   | 20                   |
+| Represa       | 2,262     |                    |
 | Área total    | 971,490   |                        |
 
 ### Conservação de nascentes

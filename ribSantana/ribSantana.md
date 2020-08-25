@@ -55,13 +55,13 @@ Este estudo foi realizado a partir de pesquisas bibliográficas, visita de campo
 - Software Google Earth Pro 7.3.2.5491, 64-bits;
 - Software Google Earth Engine;
 - Imagens Sentinel-2 e SRTM Global DEM;
-- Shapefile de drenagem da bacia do Rio São Francisco com escala de 1:100.000, obtido através da IDE-Sisema (Infraestrutura de Dados Espaciais do Sistema Estadual de Meio Ambiente e Recursos Hídricos);
+- Shapefile de drenagem da bacia do Rio São Francisco com escala de 1:100.000, obtido pelo IDE-Sisema (Infraestrutura de Dados Espaciais do Sistema Estadual de Meio Ambiente e Recursos Hídricos);
 - Shapefile de ottobacias da bacia do Rio São Francisco, obtido no IDE-Sisema;
 - Shapefile dos municípios do Estado de Minas Gerais, obtido no IDE-Sisema;
 - Shapefile de Declaração de Áreas de Conflito (DAC) obtido no IDE-Sisema;
 - Shapefile de Unidades de Conservação obtido através da IDE-Sisema; 
 - Mapa geológico do Estado de Minas Gerais na escala de 1:100.000 da CODEMIG versão 2014;
-- Mapa de classes de solos do Estado de Minas Gerais na escala de 1:500.000 da UFV versão 2010;
+- Mapa de classes de solos do Brasil, da EMBRAPA/RADAM na escala de 1:5.000.000;
 - Relatório dos usuários de água e de Hidrografia da bacia do Ribeirão Santana obtido junto a SEMAD.
 
 ### Unidades de paisagem
